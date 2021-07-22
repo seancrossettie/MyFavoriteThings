@@ -9,6 +9,7 @@ namespace MyFavoriteThings
         {
             var Jazzmaster = new Guitar("Fender", "Jazzmaster", true);
             var Lemur = new Animal("Lemur", "enourmous", "Masters in Psychology");
+            var AC30 = new Amplifier("Vox", "AC30", 30);
         }
     }
 }
